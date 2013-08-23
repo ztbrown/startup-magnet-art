@@ -1,4 +1,4 @@
-startup-magnet-art
+Startup Magnet Poetry
 ==================
 
-Startup Magnet Art
+Magnet poetry for brainstorming new products/services. 
